@@ -5,7 +5,7 @@ var normal_speed := 600.0
 
 var max_speed := normal_speed
 var velocity := Vector2(0, 0)
-var steering_factor := 15.0
+var steering_factor := 10.0
 
 
 func _process(delta: float) -> void:
