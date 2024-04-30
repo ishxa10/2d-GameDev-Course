@@ -325,12 +325,9 @@ metadata/_edit_lock_ = true
 
 [node name="Chest" parent="." instance=ExtResource("7_dsrcg")]
 position = Vector2(576, 271)
-possible_items = null
 
 [node name="Chest2" parent="." instance=ExtResource("7_dsrcg")]
 position = Vector2(766, 351)
-possible_items = null
 
 [node name="Chest3" parent="." instance=ExtResource("7_dsrcg")]
 position = Vector2(412, 363)
-possible_items = null
