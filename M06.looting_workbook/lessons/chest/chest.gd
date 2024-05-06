@@ -1,4 +1,3 @@
-
 extends Area2D
 
 @export var possible_items: Array[PackedScene] = []
